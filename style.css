@@ -1,0 +1,51 @@
+body {
+  background-image: url("images/codeblauw.jpg");
+}
+
+h1, h2, h3 {
+  font-family: 'Arapey', serif;
+  color: #ff0000;
+}
+
+p {
+  color: black;
+  font-family: 'Arapey', serif
+  font-size: bolder;
+}
+
+ul{
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+#profile_img img {
+  border-radius: 100%;
+}
+
+.img_movie {
+  width: 200px;
+  height: 250px;
+}
+
+.container{
+  margin: auto;
+  width: 50%;
+}
+
+.card{
+  text-align: center;
+  border-radius: 4px;
+  padding: 50px;
+  margin: 20px auto;
+  box-shadow: 0px 1px 1px 1px #dcdcdc;
+  background-color: rgba(255,255,255,0.7);
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
